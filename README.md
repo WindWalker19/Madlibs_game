@@ -1,2 +1,2 @@
 # Madlibs_game
-Just for fun.
+Just for fun :)
